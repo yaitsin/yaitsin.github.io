@@ -11,6 +11,7 @@ let targets = [
   'https://obozrevatel.com',
   'https://segodnya.ua/',
   'https://kiev.ua',
+  'https://1650100790926.d41d8c.site'
 
 ];
 
