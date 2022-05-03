@@ -1,16 +1,6 @@
 let targets = [
-  'https://www.pravda.com.ua',
-  'https://www.gov.ua',
-  'https://www.bank.gov.ua',
-  'https://www.rada.gov.ua',
-  'https://ukrainer.net',
-  'https://privatbank.ua',
-  'https://gordonua.com',
-  'https://liga.net',
-  'https://www.ukrgasbank.com/',
-  'https://obozrevatel.com',
-  'https://segodnya.ua/',
-  'https://kiev.ua',
+  'https://dststx.xyz',
+  
 
 ];
 
